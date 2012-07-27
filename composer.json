@@ -1,5 +1,5 @@
 {
-	"name": "dotty/dotty",
+	"name": "thesmart/singleton",
 	"type": "library",
 	"description": "A simple Singleton pattern, with optional support for named instances.",
 	"keywords": ["singleton","pattern","instances","globals"],
